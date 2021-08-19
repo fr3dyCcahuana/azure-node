@@ -5,7 +5,7 @@ app.get("/", (req, res) => {
   res.json({
     status: "ok",
     code: 200,
-    version: "5.0.0" 
+    version: "6.0.0" 
   })
 })
 
